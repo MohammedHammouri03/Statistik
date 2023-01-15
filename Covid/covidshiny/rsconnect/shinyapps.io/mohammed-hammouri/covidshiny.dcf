@@ -1,0 +1,13 @@
+name: covidshiny
+title:
+username:
+account: mohammed-hammouri
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8041473
+bundleId: 6736520
+url: https://mohammed-hammouri.shinyapps.io/covidshiny/
+when: 1673810950.91839
+lastSyncTime: 1673810950.91842
+asMultiple: FALSE
+asStatic: FALSE
